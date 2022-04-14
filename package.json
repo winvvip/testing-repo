@@ -2,11 +2,7 @@
   "name": "testing-testing-testing",
   "version": "0.1.1",
   "description": "Testing repository.",
-  "keywords": [
-    "testing",
-    "repository",
-  ],
-  "repository": "https://github.com/b3by/testing-repo",
+  "repository": "https://github.com/winvvip/testing-repo",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
